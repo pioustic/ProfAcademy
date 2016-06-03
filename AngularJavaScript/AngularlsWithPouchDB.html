@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ANGULAR DESCRIPTION</title>
+<meta name="description" content="Programming">
+<meta name="author" content="Pius">
+<link rel="stylesheet" href="AngularJavaScript/css/styles.css?v=1.0">
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="bower_component/pouchdb.min.js"></script>
+<script src="bower_component/angular.min.js"></script>
+<script src="js/angular-pouchdb.js"></script>
+<script src="js/angular-script.js"></script>
+</head>
+<body ng-app="app">
+<h2>ANGULAR</h2>
+<div id="pouch-db-management" ng-controller="dbController">
+<label>Content: <input type="text" ng-model="content.content"/></label>
+<button ng-click="put()">put</button><br/>
+Previously added content:
+<ul>
+<li ng-repeat="item in items track by $index">
+{{item}}
+</li>
+</ul>
+</div>
+<script src="js/scripts.js"></script>
+</body>
+</html>
