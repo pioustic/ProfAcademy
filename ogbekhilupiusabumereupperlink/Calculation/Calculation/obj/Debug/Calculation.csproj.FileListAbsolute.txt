@@ -1,0 +1,6 @@
+c:\users\pius-pc\documents\visual studio 2015\Projects\Calculation\Calculation\bin\Debug\Calculation.exe.config
+c:\users\pius-pc\documents\visual studio 2015\Projects\Calculation\Calculation\bin\Debug\Calculation.exe
+c:\users\pius-pc\documents\visual studio 2015\Projects\Calculation\Calculation\bin\Debug\Calculation.pdb
+c:\users\pius-pc\documents\visual studio 2015\Projects\Calculation\Calculation\obj\Debug\Calculation.exe
+c:\users\pius-pc\documents\visual studio 2015\Projects\Calculation\Calculation\obj\Debug\Calculation.pdb
+c:\users\pius-pc\documents\visual studio 2015\Projects\Calculation\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
